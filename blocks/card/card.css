@@ -4,7 +4,7 @@
   border-radius: 10px;
   margin: 0 0 20px 0;
   box-sizing: border-box;
-  overflow: hidden;
+  overflow: hidden; 
   position: relative;
 }
 .card:last-of-type {
